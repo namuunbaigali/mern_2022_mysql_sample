@@ -6,11 +6,11 @@
 1.0.6 2009-03-29
 	- fixed bug#320513 - employees with same start date are counted twice
 1.0.5 2008-08-02
-	- removed comment for FK in employees.sql 
+	- removed comment for FK in morning.sql
 	- added some database objects (views, stored procedures and functions)
 1.0.4 2008-07-26
 	- fixed bug in test_employees 
-	- added partitioning to employees.sql (saved as employees_partitioned.sql)
+	- added partitioning to morning.sql (saved as employees_partitioned.sql)
 1.0.3 2008-07-19
 	- adapted for testing on MD5 or SHA1 (two separated test files)
 	- removed views and table changelog

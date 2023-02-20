@@ -41,7 +41,7 @@ user that has the following privileges:
 
 Then run
 
-    mysql < employees.sql
+    mysql < morning.sql
 
 
 If you want to install with two large partitioned tables, run
